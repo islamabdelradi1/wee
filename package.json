@@ -1,0 +1,59 @@
+{
+  "name": "myapp-1-2022",
+  "version": "0.1.0",
+  "host": "http://islamabdelradi.000webhostapp.com/",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.2.0",
+    "@testing-library/user-event": "^13.5.0",
+    "animate.css": "^4.1.1",
+    "aos": "^3.0.0-beta.6",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
+    "discord-api-types": "^0.37.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "firebase": "^9.9.2",
+    "mongoose": "^6.5.2",
+    "particles-bg": "^2.5.5",
+    "primeicons": "^5.0.0",
+    "primereact": "^8.3.0",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "^18.1.0",
+    "react-google-recaptcha": "^2.1.0",
+    "react-icons": "^4.4.0",
+    "react-loading-skeleton": "^3.1.0",
+    "react-owl-carousel": "^2.3.3",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "swiper": "^8.3.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
