@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>pay_bill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pay_bill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-8" transform="translate(7.000000, 6.000000)" stroke="#3C3C3B" stroke-width="1.5">
+            <g id="Group-7">
+                <path d="M0.46484375,27.3143237 L0.46484375,0.639453125 L25.5942555,0.639453125 L25.5942555,27.3143237 C25.5942555,27.3253178 25.5816908,27.3331708 25.5706967,27.328459 L21.4054967,25.245859 L17.2183085,27.3394531 L13.0295496,25.245859 L8.84079081,27.3394531 L4.65360257,25.245859 L0.488402574,27.328459 C0.477408456,27.3331708 0.46484375,27.3253178 0.46484375,27.3143237 Z" id="Stroke-3"></path>
+                <line x1="14.6001379" y1="19.4858837" x2="6.74719669" y2="19.4858837" id="Stroke-5"></line>
+            </g>
+            <line x1="19.3119026" y1="6.92117783" x2="6.74719669" y2="6.92117783" id="Stroke-1"></line>
+            <line x1="19.5204767" y1="13.2035308" x2="6.74688257" y2="13.2035308" id="Stroke-2"></line>
+        </g>
+    </g>
+</svg>
